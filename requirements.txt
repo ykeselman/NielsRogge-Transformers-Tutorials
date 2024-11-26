@@ -1,0 +1,15 @@
+torch
+torchvision
+pillow
+matplotlib
+opencv-python
+scipy
+pydicom
+pytorch-lightning
+torchmetrics
+comet-ml
+transformers
+pycocotools
+tensorboard
+ipywidgets
+coco-eval
