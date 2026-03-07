@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "accelerate>=1.12.0",
+    "av>=16.1.0",
     "bitsandbytes>=0.49.1",
     "dall-e>=0.1",
     "datasets>=4.4.2",
@@ -33,4 +34,5 @@ dependencies = [
     "tqdm>=4.67.1",
     "transformers>=4.57.3",
     "wandb>=0.23.1",
+    "yt-dlp>=2026.3.3",
 ]
