@@ -7,5 +7,13 @@ env/
 # Model weights, vocab and configuration files
 model/
 
-# Csv data
-*.csv.DS_Store
+# MacOS files
+*.DS_Store
+
+# Environments
+.env
+.venv
+venv/
+env/
+environments/
+environments/
