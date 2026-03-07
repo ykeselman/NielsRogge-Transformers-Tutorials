@@ -3655,6 +3655,7 @@ dependencies = [
     { name = "dall-e" },
     { name = "datasets" },
     { name = "evaluate" },
+    { name = "huggingface-hub" },
     { name = "ipykernel" },
     { name = "jupyter" },
     { name = "lightning" },
@@ -3674,6 +3675,7 @@ dependencies = [
     { name = "torch" },
     { name = "torchcodec" },
     { name = "torchvision" },
+    { name = "tqdm" },
     { name = "transformers" },
     { name = "wandb" },
 ]
@@ -3685,6 +3687,7 @@ requires-dist = [
     { name = "dall-e", specifier = ">=0.1" },
     { name = "datasets", specifier = ">=4.4.2" },
     { name = "evaluate", specifier = ">=0.4.6" },
+    { name = "huggingface-hub", specifier = ">=0.36.0" },
     { name = "ipykernel", specifier = ">=7.1.0" },
     { name = "jupyter", specifier = ">=1.1.1" },
     { name = "lightning", specifier = ">=2.6.0" },
@@ -3704,6 +3707,7 @@ requires-dist = [
     { name = "torch", specifier = ">=2.9.1" },
     { name = "torchcodec", specifier = ">=0.9.1" },
     { name = "torchvision", specifier = ">=0.24.1" },
+    { name = "tqdm", specifier = ">=4.67.1" },
     { name = "transformers", specifier = ">=4.57.3" },
     { name = "wandb", specifier = ">=0.23.1" },
 ]
